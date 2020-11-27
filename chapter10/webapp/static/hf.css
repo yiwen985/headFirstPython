@@ -1,0 +1,9 @@
+th,td {
+    border: 1px solid black;
+    word-wrap: break-word;
+    width: 150px;
+} 
+
+table {
+    border-collapse: collapse;
+}
